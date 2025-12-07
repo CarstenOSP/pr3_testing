@@ -24,8 +24,8 @@ project3
 ├── student1
 │   ├── .c/.h files
 │   ├── diffs
-│      ├── regular
-│      ├── whitespace
+│   │   ├── regular
+│   │   └── whitespace
 │   ├── makefile
 │   ├── results
 │   ├── test_all.sh
@@ -33,8 +33,8 @@ project3
 ├── student2
 │   ├── .c/.h files
 │   ├── diffs
-│      ├── regular
-│      ├── whitespace
+│   │   ├── regular
+│   │   └── whitespace
 │   ├── makefile
 │   ├── results
 │   ├── test_all.sh
@@ -42,8 +42,8 @@ project3
 ├── student3
 │   ├── .c/.h files
 │   ├── diffs
-│      ├── regular
-│      ├── whitespace
+│   │   ├── regular
+│   │   └── whitespace
 │   ├── makefile
 │   ├── results
 │   ├── test_all.sh
