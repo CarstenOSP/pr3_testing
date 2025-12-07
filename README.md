@@ -3,11 +3,11 @@
 ```md
 project3
 ├── student1
-│   ├── .c/.h files
+│   └── .c/.h files
 ├── student2
-│   ├── .c/.h files
+│   └── .c/.h files
 ├── student3
-│   ├── .c/.h files
+│   └── .c/.h files
 ├── ...
 ├── makefile
 ├── prep_dirs.sh
